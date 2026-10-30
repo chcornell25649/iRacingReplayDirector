@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="iRacingReplayDirector.Core/iRacingReplayDirector.Core.csproj" />
+  <Project Path="iRacingReplayDirector.UI/iRacingReplayDirector.UI.csproj" />
+</Solution>
